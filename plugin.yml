@@ -1,7 +1,6 @@
 name: CommandEcho
 main: cn.innc11.commandecho.CommandEcho
-version: "1.0"
+version: "1.1"
 author: innc11
 api: ["1.0.0"]
-prefix: "CommandEcho"
 load: POSTWORLD
